@@ -2,8 +2,8 @@
   "name": "gaurang-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Gaurang288/repo-portfolio.git",
-  "dependencies": {
+  "homepage": "https://Gaurang288.github.io/repo-portfolio",
+   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
